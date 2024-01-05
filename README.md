@@ -1,7 +1,7 @@
 # 💫About Me :
 Hey !
-I am a Pre-Final year undergrad Engineering student. I enjoy tech in general and am interested in Cloud, Programming and Web Development
-
+I am an Engineering Grad student. I enjoy tech in general and am interested in Data Analysis, Basic Programming and Cloud.
+ 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omrajeshchitmalwar) 
 
